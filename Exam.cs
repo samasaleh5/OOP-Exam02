@@ -15,6 +15,7 @@ namespace OOP_Exam
 
         public Exam() { }
         public Exam(int time,int numberOfQuestion)
+
         {
             this.time = time;
             this.NumberOfQuestion = numberOfQuestion;
